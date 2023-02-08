@@ -1,0 +1,20 @@
+
+.contact-area{
+	background-color: black;
+	padding: 20px;
+	position: relative;
+}
+.contact-area p{
+	color: ghostwhite;
+	font-size: 20px;
+	z-index: -1;
+	margin-top: 50px;
+}
+.contact-area h3{
+	margin-top: 50px;
+	color: gold;
+	text-align: center;
+}
+.ct{
+	margin-top: 0px;
+}
